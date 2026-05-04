@@ -141,12 +141,10 @@ echo "✅ Estructura de carpetas creada exitosamente."
 
 | N° | Apellidos y Nombres | Código |
 |---|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-
-> 📝 *Completar con los nombres y códigos del equipo.*
+| 1 | Tafur Cortez, Claudio Stevenson | U22229800 |
+| 2 | Lopez Pacherres, Bryan Armando | U22305277 |
+| 3 | Martínez Muñoz, Jeremy Alexander | U22241773 |
+| 4 | Chauca Díaz, Juan Carlos | U23243647 |
 
 ---
 
