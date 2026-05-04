@@ -1,4 +1,4 @@
-# 🏥 Sistema de Gestión de Inventario y Abastecimiento — Farmacias Peruanas S.A.
+# 🏥 Sistema de Gestión de Inventario y Abastecimiento — Farmacias Peruanas S.A. - GRUPO 2
 
 > **Curso:** Diseño e Implementación de Arquitectura Empresarial — Sección 22840
 > **Universidad:** Universidad Tecnológica del Perú (UTP)
@@ -166,7 +166,7 @@ echo "✅ Estructura de carpetas creada exitosamente."
 
 | Entregable | Descripción | Estado |
 |---|---|---|
-| **APF1** | Modelado del Negocio + Ingeniería de Requerimientos | 🔄 En progreso |
+| **APF1** | Modelado del Negocio + Ingeniería de Requerimientos | PROCESADO |
 | **APF2** | Arquitectura del Sistema | ⬜ Pendiente |
 | **PROY** | Proyecto Final completo | ⬜ Pendiente |
 
