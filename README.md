@@ -52,6 +52,7 @@ Centralizar y versionar todos los **diagramas de análisis y diseño** del siste
  ┃ ┗ 📂 CUN-07_Planificar_demanda_de_productos/
  ┣ 📂 Diagrama_Clases/
  ┃ ┗ 📂 Diagrama_Dominio_Negocio/
+ ┃ ┗ 📂 Diagrama_de_Objetos_del_Negocio/
  ┣ 📂 Diagrama_Casos_Uso_Farmacias_Peruanas/
  ┃ ┗ 📂 Diagrama_Caso_Uso_Sistema_Gestion_Inventario_Abastecimiento/
  ┣ 📂 Diagrama_Contexto/
@@ -90,6 +91,9 @@ Representa el flujo de actividades de cada caso de uso del negocio, mostrando la
 ### 📌 Diagrama de Clases — Dominio del Negocio
 Modelo conceptual de las clases y relaciones del dominio del negocio, identificando las entidades clave del sistema de inventario y abastecimiento.
 
+📌 Diagrama de Objetos — Objetos del Negocio
+Representación específica de los objetos del negocio en un escenario concreto, mostrando cómo interactúan los actores, productos, ventas, inventario, órdenes y despachos dentro del proceso de inventario y abastecimiento.
+
 ### 📌 Diagrama de Casos de Uso del Sistema
 Especifica los casos de uso del **Sistema de Gestión de Inventario y Abastecimiento**, mostrando las interacciones entre actores del sistema y sus funcionalidades.
 
@@ -122,6 +126,7 @@ mkdir -p Diagrama_Actividades/CUN-07_Planificar_demanda_de_productos
 
 # Crear carpetas del Diagrama de Clases
 mkdir -p Diagrama_Clases/Diagrama_Dominio_Negocio
+mkdir -p Diagrama_Clases/Diagrama_de_Objetos_del_Negocio
 
 # Crear carpetas del Diagrama de Casos de Uso del Sistema
 mkdir -p Diagrama_Casos_Uso_Farmacias_Peruanas/Diagrama_Caso_Uso_Sistema_Gestion_Inventario_Abastecimiento
